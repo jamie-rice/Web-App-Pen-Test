@@ -41,6 +41,6 @@ CWE-613 	Insufficient Session Expiration	Predictable cookies
 
 CWE-693 	Protection Mechanism Failure	Incorrect HTTP security headers:
 
-CWE-798 	Use of Hard-coded credentials	Default credentials
+CWE-798 	Use of Hard-coded credentials	default credentials
 
 These vulnerabilities and the processes used to find them are documented within the document
