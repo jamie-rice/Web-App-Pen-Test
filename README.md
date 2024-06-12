@@ -1,5 +1,27 @@
 Using the OWAP Web Application Security Testing Methodology to provide a comprehensive Penetration Test Report of a fictious jewellery shop ‘Rick Astley Jewellers’
 
+Project Tooling (but not limited to) :
+
+- Burp Suite
+- OWASP Zap
+- Nikto
+- NMAP
+- Wireshark
+- Quick Cookie Manager // Web Scarab
+- SQLi Map
+- Browser Exploitation Framework (BeeF)
+
+
+Project processes and techniques (but not limited to) :
+
+- SQL Injection
+- Local File Inclusion
+- Directory Traversal
+- XSS (Reflected & Stored)
+- Session Hijacking & Session Fixation
+- Privilege escalation
+
+
 Some of the tools used include: • Applications: Burp Suite, OWASP Zap • Scanning: Nikto, NMAP Wireshark • Investigating Cookie: Quick Cookie Manager, Web Scarab • Exploitation: SQLi Map, Browser Exploitation Framework (Beef)
 
 Some of the vulnerabilities found and exploited on the web app are the following;
@@ -37,25 +59,3 @@ CWE-693 Protection Mechanism Failure Incorrect HTTP security headers:
 CWE-798 Use of Hard-coded credentials default credentials
 
 These vulnerabilities and the processes used to find them are documented within the document
-
-
-Project Tooling (but not limited to) :
-
-- Burp Suite
-- OWASP Zap
-- Nikto
-- NMAP
-- Wireshark
-- Quick Cookie Manager // Web Scarab
-- SQLi Map
-- Browser Exploitation Framework (BeeF)
-
-
-Project processes and techniques (but not limited to) :
-
-- SQL Injection
-- Local File Inclusion
-- Directory Traversal
-- XSS (Reflected & Stored)
-- Session Hijacking & Session Fixation
-- Privilege escalation
